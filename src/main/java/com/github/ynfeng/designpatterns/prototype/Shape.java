@@ -1,4 +1,4 @@
-package com.github.ynfeng.designpatterns.protopyte;
+package com.github.ynfeng.designpatterns.prototype;
 
 public abstract class Shape {
     public int x;

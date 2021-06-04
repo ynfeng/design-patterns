@@ -1,4 +1,4 @@
-package com.github.ynfeng.designpatterns.protopyte;
+package com.github.ynfeng.designpatterns.prototype;
 
 public class Circle extends Shape {
     public int radius;

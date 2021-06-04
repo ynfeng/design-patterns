@@ -1,4 +1,4 @@
-package com.github.ynfeng.designpatterns.protopyte;
+package com.github.ynfeng.designpatterns.prototype;
 
 public class Rectangle extends Shape {
     public int width;
