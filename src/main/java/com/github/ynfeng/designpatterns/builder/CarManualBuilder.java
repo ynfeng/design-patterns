@@ -2,6 +2,7 @@ package com.github.ynfeng.designpatterns.builder;
 
 public class CarManualBuilder implements Builder<Manual> {
     private final Manual manual = new Manual();
+
     @Override
     public Builder<Manual> seats(int seats) {
         manual.setSeats(seats);

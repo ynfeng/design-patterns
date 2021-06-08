@@ -2,6 +2,7 @@ package com.github.ynfeng.designpatterns.builder;
 
 public class CarBuilder implements Builder<Car> {
     private final Car car = new Car();
+
     @Override
     public Builder<Car> seats(int seats) {
         car.setSetas(seats);
