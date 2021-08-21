@@ -9,7 +9,7 @@ public class Command {
     }
 
     public void makeBackup() {
-       backup = editor.createShapshot();
+        backup = editor.createShapshot();
     }
 
     public void undo() {
